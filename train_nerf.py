@@ -3,7 +3,7 @@
 from argparse import ArgumentDefaultsHelpFormatter, ArgumentParser
 import json
 import os
-
+     
 import fourier_feature_nets as ffn
 import torch
 
